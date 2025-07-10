@@ -7,3 +7,15 @@
 *{
    font-family: "Open Sans", sans-serif;
 }
+
+#header-section{
+   background-image: url('../my-project/assets/developer.png'), url('../my-project/assets/header_bg.png');
+   background-repeat: no-repeat;
+   background-position: top left, bottom right;
+   background-size: 8%, 55%;
+   
+}
+
+#card{
+   box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
