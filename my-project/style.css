@@ -11,8 +11,8 @@
 #header-section{
    background-image: url('../my-project/assets/developer.png'), url('../my-project/assets/header_bg.png');
    background-repeat: no-repeat;
-   background-position: top left, bottom right;
-   background-size: 8%, 55%;
+   background-position: 10px 50px, bottom right;
+   background-size: 7%, 55%;
    
 }
 
